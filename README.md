@@ -1,5 +1,5 @@
 # Morph-PIPE
-Official implementation for paper - PIPE: Plugging in Identity Prior to Enhance Face Morphing Attack Based on Diffusion Model
+Official implementation of paper - PIPE: Plugging in Identity Prior to Enhance Face Morphing Attack Based on Diffusion Model
 # Overview
 This repository is a public portal of the morphing approach Morph-PIPE: Plugging in Identity Prior to Enhance Face Morphing Attack Based on Diffusion Model.
 
